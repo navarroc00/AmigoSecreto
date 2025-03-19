@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación interactiva donde los usuarios pueden agregar nombres de amigos y sortear aleatoriamente un "amigo secreto" entre ellos.
 
-.[!NOTE].
+[!NOTE]
 Proyecto para ALURA LATAM
 
 ## 🚀 Tecnologías utilizadas
